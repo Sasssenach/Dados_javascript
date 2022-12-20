@@ -1,0 +1,22 @@
+.principal{
+    text-align: center;
+    align-items: center;
+    
+   
+   
+}
+#caras{
+    display: flex;
+    flex-direction: row;  
+    justify-content: center;  
+    margin:0px auto;
+    align-items: center;
+
+}
+
+#dado1, #dado2, #dado3{
+    width: 100px;
+   
+
+}
+
